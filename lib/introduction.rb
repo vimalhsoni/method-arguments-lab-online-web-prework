@@ -1,3 +1,3 @@
 def introduction
-  
+
 end
